@@ -1,6 +1,25 @@
-<h1 align="center">ELA Innovation</h1>
-<div align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<h1 align="center">Hi 👋, we're ELA Innovation</h1>
+<h3 align="center">A passionate company from France, with a fantastic team of software developers</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elainnovation" alt="elainnovation" /> </p>
 
-</div>
+- 🔭 We're currently working on **Software developments**
+
+- 👯 We collaborate with [Mathieu](https://github.com/matbuster)
+
+- 🤔 But also [Valentin](https://github.com/KaplaCat)
+
+- 👨‍💻 All our projects are available at [https://github.com/elaInnovation?tab=repositories](https://github.com/elaInnovation?tab=repositories)
+
+- 📝 You can check our website on [https://elainnovation.com/](https://elainnovation.com/)
+
+- 💬 Ask me about **C#, Java, Python, ...**
+
+- 📫 How to reach me **https://github.com/KaplaCat**
+
+- ⚡ Fun fact **We love special tacos**
+
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=elainnovation&show_icons=true" alt="elainnovation" /> </p>
+
+<p align="center">
+<a href="https://linkedin.com/in/ela-innovation-france" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ela-innovation-france" height="20" width="20" /></a>
+</p>
