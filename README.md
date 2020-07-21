@@ -14,9 +14,9 @@
 
 - 📝 You can check our website on [https://elainnovation.com/](https://elainnovation.com/)
 
-- 💬 Ask me about **C#, Java, Python, ...**
+- 💬 Ask us about **C#, Java, Python, ...**
 
-- 📫 How to reach me **https://github.com/KaplaCat**
+- 📫 How to reach us **https://elainnovation.com/**
 
 - ⚡ Fun fact **We love special tacos**
 
