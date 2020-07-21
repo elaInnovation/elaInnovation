@@ -8,6 +8,8 @@
 
 - 🤔 The junior [Valentin](https://github.com/KaplaCat)
 
+- 👯 With [Vighnesh](https://github.com/elaVGT) too
+
 - 👯 But also [Paul](https://github.com/pfournier09)
 
 - 👨‍💻 All our projects are available at [https://github.com/elaInnovation?tab=repositories](https://github.com/elaInnovation?tab=repositories)
