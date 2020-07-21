@@ -6,7 +6,9 @@
 
 - 👯 We collaborate with [Mathieu](https://github.com/matbuster)
 
-- 🤔 But also [Valentin](https://github.com/KaplaCat)
+- 🤔 The junior [Valentin](https://github.com/KaplaCat)
+
+- 👯 But also [Paul](https://github.com/pfournier09)
 
 - 👨‍💻 All our projects are available at [https://github.com/elaInnovation?tab=repositories](https://github.com/elaInnovation?tab=repositories)
 
