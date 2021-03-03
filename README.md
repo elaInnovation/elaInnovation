@@ -12,6 +12,8 @@
 
 - 👯 But also [Paul](https://github.com/pfournier09)
 
+- 👯 [Stephane](https://github.com/Ste-Bon) our new challenger!
+
 - 👨‍💻 All our projects are available at [https://github.com/elaInnovation?tab=repositories](https://github.com/elaInnovation?tab=repositories)
 
 - 📝 You can check our website on [https://elainnovation.com/](https://elainnovation.com/)
