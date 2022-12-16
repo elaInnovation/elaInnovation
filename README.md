@@ -4,17 +4,15 @@
 
 - 🔭 We're currently working on **Software developments**
 
-- 👯 We collaborate with [Mathieu](https://github.com/matbuster)
+- 👯 We collaborate with [Stéphane](https://github.com/Ste-bon)
 
-- 🤔 The junior [Valentin](https://github.com/KaplaCat)
+- 🤔 The new challenger [El Mokhtar](https://github.com/El-Mokhtar-AIssaoui)
 
 - 👯 With [Vighnesh](https://github.com/elaVGT) too
 
 - 👯 But also [Paul](https://github.com/pfournier09)
 
-- 👯 [Stephane](https://github.com/Ste-Bon) our new challenger!
-
-- 👨‍💻 All our projects are available at [https://github.com/elaInnovation?tab=repositories](https://github.com/elaInnovation?tab=repositories)
+- 👨‍💻 All our sample projects are available at [Samples](https://github.com/elaInnovation/ELA-Sample)
 
 - 📝 You can check our website on [https://elainnovation.com/](https://elainnovation.com/)
 
