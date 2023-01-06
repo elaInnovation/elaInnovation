@@ -16,9 +16,7 @@
 
 - 📝 You can check our website on [https://elainnovation.com/](https://elainnovation.com/)
 
-- 💬 Ask us about **C#, Java, Python, ...**
-
-- 📫 How to reach us **https://elainnovation.com/**
+- 💬 Ask us about **C#, Python, ...**
 
 - ⚡ Fun fact **We love special tacos**
 
