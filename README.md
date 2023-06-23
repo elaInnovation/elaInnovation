@@ -6,11 +6,11 @@
 
 - 👯 We collaborate with [Stéphane](https://github.com/Ste-bon)
 
-- 🤔 The new challenger [El Mokhtar](https://github.com/El-Mokhtar-AIssaoui)
-
 - 👯 With [Vighnesh](https://github.com/elaVGT) too
 
 - 👯 But also [Paul](https://github.com/pfournier09)
+
+- 👯 And [Valentin](mailto:vf.dev@sent.com)
 
 - 👨‍💻 All our sample projects are available at [Samples](https://github.com/elaInnovation/ELA-Sample)
 
