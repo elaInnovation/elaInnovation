@@ -10,7 +10,7 @@
 
 - 👯 But also [Paul](https://github.com/pfournier09)
 
-- 👯 And [Valentin](mailto:vf.dev@sent.com)
+- 👯 And [Valentin](https://github.com/ValentinFlamand)
 
 - 👨‍💻 All our sample projects are available at [Samples](https://github.com/elaInnovation/ELA-Sample)
 
