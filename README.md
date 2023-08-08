@@ -4,13 +4,15 @@
 
 - 🔭 We're currently working on **Software developments**
 
-- 👯 We collaborate with [Stéphane](https://github.com/Ste-bon)
+- 👯 We collaborate with [Stéphane](https://github.com/Ste-bon) (lead + backend)
 
-- 👯 With [Vighnesh](https://github.com/elaVGT) too
+- 👯 With [Vighnesh](https://github.com/elaVGT) too (localization and tech experiments)
 
-- 👯 But also [Paul](https://github.com/pfournier09)
+- 👯 But also [Paul](https://github.com/pfournier09) (backend and production tools)
 
-- 👯 And [Valentin](https://github.com/ValentinFlamand)
+- 👯 [Valentin](https://github.com/ValentinFlamand) (UX UI)
+
+- 👯 And [Jonathan](https://github.com/jonatmoy) (backend)
 
 - 👨‍💻 All our sample projects are available at [Samples](https://github.com/elaInnovation/ELA-Sample)
 
