@@ -12,7 +12,7 @@
 
 - 👯 [Valentin](https://github.com/ValentinFlamand) (UX UI)
 
-- 👯 And [Jonathan](https://github.com/jonatmoy) (backend)
+- 👯 And [Jonathan](https://github.com/jonatmoy) (full stack)
 
 - 👨‍💻 All our sample projects are available at [Samples](https://github.com/elaInnovation/ELA-Sample)
 
