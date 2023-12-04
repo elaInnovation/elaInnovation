@@ -10,7 +10,7 @@
 
 - 👯 But also [Paul](https://github.com/pfournier09) (backend and production tools)
 
-- 👯 [Valentin](https://github.com/ValentinFlamand) (UX UI)
+- 👯 [Valentin](https://github.com/ValentinFlamand) (Front end, UX UI)
 
 - 👯 And [Jonathan](https://github.com/jonatmoy) (full stack)
 
