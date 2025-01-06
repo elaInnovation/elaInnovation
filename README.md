@@ -6,11 +6,9 @@
 
 - 👯 We collaborate with [Stéphane](https://github.com/Ste-bon) (lead + backend)
 
-- 👯 With [Vighnesh](https://github.com/elaVGT) too (localization and tech experiments)
+- 👯 With [Vighnesh](https://github.com/elaVGT) too (senior architect and jack of all trades)
 
-- 👯 But also [Paul](https://github.com/pfournier09) (backend and production tools)
-
-- 👯 [Valentin](https://github.com/ValentinFlamand) (Front end, UX UI)
+- 👯 Manon (mobile)
 
 - 👯 And [Jonathan](https://github.com/jonatmoy) (full stack)
 
