@@ -21,5 +21,5 @@
 - ⚡ Fun fact **We love special tacos**
 
 <p align="center">
-<a href="https://www.linkedin.com/company/elainnovation/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ela-innovation-france" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/company/ela-innovation-france/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ela-innovation-france" height="20" width="20" /></a>
 </p>
